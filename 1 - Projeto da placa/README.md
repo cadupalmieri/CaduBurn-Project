@@ -1,5 +1,5 @@
 
-<img alt="Esquematico" src="./esquema1.jpg"  width="900" height="400">
+<img alt="Esquematico" src="./esquema1.jpg"  width="900" height="500">
 
 Figura 01 - Esquemático
 
