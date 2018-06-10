@@ -2,7 +2,6 @@ Legenda
 <img alt="Esquematico" src="./esquema1.jpg"  width="900" height="600">
 
 Figura 01 - Esquemático
-legenda
 
 <img alt="Layout" src="./layout1.png"  width="400" height="300">
 
